@@ -234,6 +234,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+header:
+  links:
+    - title: "Notes"  
+      url: /notes/
 
 # These settings control how pages and collections are included in the site
 defaults:
